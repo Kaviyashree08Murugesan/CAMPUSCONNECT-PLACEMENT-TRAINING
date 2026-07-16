@@ -5,7 +5,7 @@
 - Data Types
 - Operators
 
-## 🎯 Objective
+##🎯 Objective
 Learn the fundamentals of C programming by understanding how to declare variables, use different data types, and perform operations using arithmetic, relational, logical, and assignment operators.
 
 ## 🛠️ Concepts Covered
@@ -31,15 +31,15 @@ Learn the fundamentals of C programming by understanding how to declare variable
 .
 
 📅 Day 2 – C Programming Fundamentals: Conditional Statements, Loops & Arrays
-🎯 Objective
+##🎯 Objective
 
 Build a strong foundation in C programming by understanding:
 
 Decision making using conditional statements.
 Repetitive execution using loops.
 Storing and manipulating collections of data using arrays.
-📚 Topics Covered
-🔹 Conditional Statements
+##📚 Topics Covered
+##🔹 Conditional Statements
 
 Learned how to control the flow of a program using:
 
@@ -48,7 +48,7 @@ if-else
 else-if
 Nested if
 switch
-🔹 Loops
+##🔹 Loops
 Learned how to execute repetitive tasks using:
 
 for loop
@@ -60,7 +60,7 @@ Declaration
 Initialization
 Traversing arrays
 Input and output operations
-💡 Key Concepts Learned
+##💡 Key Concepts Learned
 Decision-making in programs.
 Writing efficient loops.
 Eliminating repetitive code.
