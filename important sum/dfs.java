@@ -1,7 +1,7 @@
 //DFS
 import java.util.*;
 
-public class Main {
+class Main {
 
     public static Set<String> dfsRecursive(Map<String, List<String>> graph, String node, Set<String> visited) {
         if (visited == null) {
